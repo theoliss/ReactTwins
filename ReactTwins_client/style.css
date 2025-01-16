@@ -1,0 +1,21 @@
+::-webkit-scrollbar {
+	width: 0px;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 100%;
+    overflow: hidden;
+    background-color: white;
+}
+
+#WorkSpace {
+    margin: 0;
+    padding: 0;
+    border: 1px solid white;
+    top : 0px;
+    left : 0px;
+    position : absolute;
+}
